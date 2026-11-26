@@ -5,8 +5,11 @@ Writes one short text to ``<MAKEFUN_OUTPUT_DIR>/entry.txt``.
 
 The text thanks the judge for the one thing only a blind judge can
 give: a hearing where the words are weighed on their own. The judge
-reads each entry twice -- once as A, once as B -- and still never asks
-whose it is. No name, no past wins, no crowd behind the sentence.
+reads each entry twice -- once as A, once as B -- so that neither
+the order on the page nor the name behind it can tip the scales:
+the first reading tests the words alone, the second guards against
+the first reading's own bias, and still the judge never asks whose
+it is. No name, no past wins, no crowd behind the sentence.
 The gratitude is shown, not announced: the image is a stranger's
 words, weighed on their own, and the thought keeps working after the
 last line -- the kindest hearing is the one where nobody's name
